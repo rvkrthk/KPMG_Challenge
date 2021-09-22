@@ -1,0 +1,1 @@
+I have deployed an ntier architecture with multiple subnets and VMs associated to the same. This includes an UbunutVM, WindowsVM and an SQL VM.
